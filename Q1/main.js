@@ -1,7 +1,7 @@
 // JavaScript Document
 
 
-// only want one main
+// Don't need select all
 let main = document.querySelector('main');
 let submitButton = document.querySelector('input[type="submit"]');
 // Changed type to button to prevent reloading page
