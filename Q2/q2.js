@@ -36,4 +36,5 @@ class Teacher extends Person {
   }
 }
 
+// A teacher is instantiated
 let krabappel = new Teacher('Edna Krabappel', 40, 'female', ['teaching', 'Ned'], 'Science', 'Fourth');
